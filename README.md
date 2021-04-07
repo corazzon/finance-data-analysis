@@ -1,6 +1,6 @@
-# 🌱 인프런 - 증권 데이터 수집과 분석으로 신호와 소음 찾기
+# [🌱 인프런 - 증권 데이터 수집과 분석으로 신호와 소음 찾기](https://bit.ly/inflearn-finace-data)
 
-<img src="https://cdn.inflearn.com/public/files/courses/326383/86b666ed-064d-42fa-97d2-fb505ce5b735/Screen%20Shot%202021-03-29%20at%206.19.22%20PM.png" width="800">
+<a href="https://bit.ly/inflearn-finace-data"><img src="https://cdn.inflearn.com/public/files/courses/326383/86b666ed-064d-42fa-97d2-fb505ce5b735/Screen%20Shot%202021-03-29%20at%206.19.22%20PM.png" width="800"></a>
 
 
 ## 학습 스킬 소개
@@ -26,11 +26,11 @@
 강의를 다 듣고 비어 있는 셀을 채우며 복습해 볼 수도 있습니다.
 ```
 
-<img src="https://cdn.inflearn.com/public/files/courses/326383/d6d08eae-949d-4a4d-a89b-7aafc7e10b53/Screen%20Shot%202021-02-13%20at%2010.25.55%20PM.png" width="800">
+<a href="https://bit.ly/inflearn-finace-data"><img src="https://cdn.inflearn.com/public/files/courses/326383/d6d08eae-949d-4a4d-a89b-7aafc7e10b53/Screen%20Shot%202021-02-13%20at%2010.25.55%20PM.png" width="800"></a>
 
 ## 📈 HTS, MTS 에서 볼 수 있는 보조지표(이동평균, 볼린저밴드, RSI, MACD) 직접 구현하고 원리 이해하기
 
-<img src="https://cdn.inflearn.com/public/files/courses/326383/c16c45a1-99c2-4070-9a6d-a188a0916c7b/Screen%20Shot%202021-04-03%20at%2012.13.26%20PM.png" width="800">
+<a href="https://bit.ly/inflearn-finace-data"><img src="https://cdn.inflearn.com/public/files/courses/326383/c16c45a1-99c2-4070-9a6d-a188a0916c7b/Screen%20Shot%202021-04-03%20at%2012.13.26%20PM.png" width="800"></a>
 
 
 ### LICENSE
